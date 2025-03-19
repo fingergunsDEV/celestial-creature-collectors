@@ -55,7 +55,7 @@ export const creatures: Creature[] = [
     id: 'field_hopper',
     name: 'Field Hopper',
     description: 'A small rabbit-like creature with oversized ears and a single glowing antenna.',
-    image: 'https://images.unsplash.com/photo-1591382386733-c59596ef6f31',
+    image: 'blob:https://labs.google/90c6f5f3-125a-45c7-8479-5597c74450ac',
     rarity: 'common',
     biome: 'Meadow',
     behavior: 'Bounces playfully through tall grass, easily startled.',
